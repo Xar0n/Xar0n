@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Xar0n
-- 👀 I’m interested in programming, philosophy, psychology, swimming
-- 🌱 I’m currently learning laravel, reactjs, deep learning
 - 📫 How to reach me: toni.neczvetaev.06@bk.ru
 
 <!---
